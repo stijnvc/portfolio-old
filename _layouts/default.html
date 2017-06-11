@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}" prefix="og: http://ogp.me/ns#">
+<head>
+	{% include head.html %}
+</head>
+<body>
+	<div class="wrap">
+		{% include header.html %}
+		{{ content }}
+	  <script>
+	    $("article").fitVids();
+	    $('article p').each(function(i){
+				if (($(this).find('img').length) && (!$.trim($(this).text()).length))  {
+					$(this).addClass('no-source');
+				}
+				if ($.trim($(this).text()).length - $.trim($(this).find('small').text()).length == 0 && ($(this).find('img').length)){
+					$(this).addClass('img-only');
+				}
+	  	});
+	  </script>
+
+
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+---
+layout: default
+home: true
+---
+
+{% for post in paginator.posts %}
+
+{% assign minutes = post.content | number_of_words | divided_by: 180 %}
+{% if minutes == 0 %}
+  {% assign read-time = site.var_less_than_a_minute_read %}
+{% else %}
+  {% assign read-time = minutes | append: "&nbsp;" | append: site.var_min_read %}
+{% endif %}
+
+  <article class="list">
+
+  	<a class="{{ post.thumb-color }}" style="background-image: url(/img/portfolio/{{ post.thumbnail }});" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+
+  </article>
+{% endfor %}
+
+<hr>
+
+<p style="text-align: center;">© 2014 - 2017 Stijn van Cuijk</p>
