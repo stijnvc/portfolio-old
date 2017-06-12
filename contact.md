@@ -4,10 +4,10 @@ title: Contact
 ---
 
 
-+31 (0)6 280 743 87
++31 (0)6 280 743 87<br>
 contact@stijn.vc
 
-[LinkedIn](https://nl.linkedin.com/in/stijnvancuijk)
-[Behance](https://www.behance.net/stijnvc)
-[GitHub](https://github.com/steinvc)
+[LinkedIn](https://nl.linkedin.com/in/stijnvancuijk)<br>
+[Behance](https://www.behance.net/stijnvc)<br>
+[GitHub](https://github.com/steinvc)<br>
 [Bandcamp](https://stijn1.bandcamp.com/)
