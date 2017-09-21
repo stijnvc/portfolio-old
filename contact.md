@@ -10,4 +10,3 @@ contact@stijn.vc
 [LinkedIn](https://nl.linkedin.com/in/stijnvancuijk)<br>
 [Behance](https://www.behance.net/stijnvc)<br>
 [GitHub](https://github.com/steinvc)<br>
-[Bandcamp](https://stijn1.bandcamp.com/)
