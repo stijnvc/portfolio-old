@@ -1,5 +1,5 @@
 ---
-title: \"Revolve\" Waterbottle
+title: REVOLVE Waterbottle
 thumbnail: drinkfles-mk3-thumb.jpg
 thumb-color: dark
 ---
