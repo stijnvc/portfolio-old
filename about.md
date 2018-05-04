@@ -13,41 +13,41 @@ Momenteel student Industrieel Product Ontwerpen aan de Hogeschool van Arnhem en 
 
 ### Curriculum Vitae
 
-**Industrial Design Intern**
-Studio Mango
-nov. 2017 – feb. 2018
+**Industrial Design Intern**<br>
+Studio Mango<br>
+nov. 2017 – feb. 2018<br>
 Breda
 
-**Product Designer**
-Smaac
-jun. 2017 – nov. 2017
+**Product Designer**<br>
+Smaac<br>
+jun. 2017 – nov. 2017<br>
 's-Hertogenbosch
 
-**Design & Project Engineering Intern**
-GBO
-feb. 2017 – mei. 2017
+**Design & Project Engineering Intern**<br>
+GBO<br>
+feb. 2017 – mei. 2017<br>
 Helmond
 
-**Practicum Docent Visualiseren**
-Hogeschool van Arnhem en Nijmegen
-nov. 2016 – jan. 2017
+**Practicum Docent Visualiseren**<br>
+Hogeschool van Arnhem en Nijmegen<br>
+nov. 2016 – jan. 2017<br>
 Arnhem
 
-**Product Design Intern**
-Smaac
-sep. 2015 – jan. 2016
+**Product Design Intern**<br>
+Smaac<br>
+sep. 2015 – jan. 2016<br>
 's-Hertogenbosch
 
 ### Onderwijs
 
-**Industrieel Product Ontwerpen**
-Hogeschool van Arnhem en Nijmegen
-2014 – 2019
+**Industrieel Product Ontwerpen**<br>
+Hogeschool van Arnhem en Nijmegen<br>
+2014 – 2019<br>
 Arnhem
 
-**HAVO: Natuur & Techniek, Muzische Afdeling: Beeldende Vormgeving**
-Koning Willem II College
-2009 – 2014
+**HAVO: Natuur & Techniek, Muzische Afdeling: Beeldende Vormgeving**<br>
+Koning Willem II College<br>
+2009 – 2014<br>
 Tilburg
 
 ---
