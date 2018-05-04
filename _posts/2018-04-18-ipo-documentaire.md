@@ -13,20 +13,20 @@ De video is gefilmd en bewerkt door IPO studenten in opdracht van de Hogeschool 
 
 ---
 
-**Regie en productie**
+**Regie en productie**<br>
 Stijn van Cuijk
 
-**Productieassistentie**
-Bram Snijders
+**Productieassistentie**<br>
+Bram Snijders<br>
 Wing-Han Tang
 
-**Interviews**
-Sjoerd Overeem
-Marin de Vree
-Rinse Timmerman
-Stan Brandwijk
-Frank van Altena
-Gijs Ebben
-Pim Cornelder
-Nienke Latta
+**Interviews**<br>
+Sjoerd Overeem<br>
+Marin de Vree<br>
+Rinse Timmerman<br>
+Stan Brandwijk<br>
+Frank van Altena<br>
+Gijs Ebben<br>
+Pim Cornelder<br>
+Nienke Latta<br>
 Emma Vos
