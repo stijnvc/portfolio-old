@@ -21,7 +21,7 @@ Een innovatie waar tijdens ideation op is gefocust is de opening/sluiting. Het d
 
 ![modelbouw 2](/img/portfolio/drinkfles_modelbouw_02.jpg)
 
-De eerste iteraties van het ontwerp zijn gedraait uit schuim. Dit geeft een flexibiliteit om snel meerdere vormen uit te proberen. Om het soortelijk gewicht van een gevulde fles te simuleren is de definitieve vorm gedraait uit eikenhoud.
+De eerste iteraties van het ontwerp zijn gedraait uit schuim. Dit geeft een flexibiliteit om snel meerdere vormen uit te proberen. Om het soortelijk gewicht van een gevulde fles te simuleren is de definitieve vorm gedraait uit eikenhout.
 
 ![modelbouw 3](/img/portfolio/drinkfles_modelbouw_03.png)
 
