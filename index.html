@@ -14,7 +14,7 @@ home: true
 
   <article class="list">
 
-  	<a class="{{ post.thumb-color }}" style="background-image: url(/img/portfolio/{{ post.thumbnail }});" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  	<a class="{{ post.thumb-color }}" style="background-image: url({{ site.baseurl }}/img/portfolio/{{ post.thumbnail }});" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 
   </article>
 {% endfor %}
