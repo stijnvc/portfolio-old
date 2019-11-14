@@ -20,8 +20,8 @@ author:
   # want it.
   info:
 
-url: https://stijnvc.github.io/portfolio-old
-baseurl: ""
+url: https://stijnvc.github.io
+baseurl: "/portfolio-old"
 
 # language attribute in <html> element.
 lang: nl
